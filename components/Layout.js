@@ -8,9 +8,10 @@ const Layout = (props) => (
 			<link rel="stylesheet" href="https://bootswatch.com/4/superhero/bootstrap.min.css"/>
 		</Head>
 		<Navbar />
-		{props.children}
+		<div className="container">
+			{props.children}
+		</div>
 	</div>
-
 )
 
 export default Layout;
