@@ -4,7 +4,7 @@ import Navbar from './Navbar';
 const Layout = (props) => (
 	<div>
 		<Head>
-			<title>Weather Tracker API</title>
+			<title>Bitcoin Tracker API</title>
 			<link rel="stylesheet" href="https://bootswatch.com/4/superhero/bootstrap.min.css"/>
 		</Head>
 		<Navbar />
