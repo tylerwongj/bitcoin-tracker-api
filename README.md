@@ -1,5 +1,5 @@
-# nextjs-api
-NextJS Weather API Website to check on the weather by entering the name of a city.
+# Bitcoin Tracker API
+Bitcoin Tracker API - support for USD, GBP, EUR.  Built with NextJS.
 
 https://stoic-gates-bafdb7.netlify.app/
 
